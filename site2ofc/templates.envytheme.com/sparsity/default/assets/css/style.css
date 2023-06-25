@@ -4658,12 +4658,14 @@ Page Title Area CSS
 .page-title-area.item-bg2 {
   background-image: url(../img/ponto_facial.jpg);
 }
-
+.page-title-area.item-bg3 {
+  background-image: url(../img/page-title-bg3.jpg);
+}
 .page-title-area.item-bg4 {
   background-image: url(../img/cerca-virtual.png);
 }
-.page-title-area.item-bg3 {
-  background-image: url(../img/page-title-bg3.jpg);
+.page-title-area.item-bg5 {
+  background-image: url(../img/Estacionamento-Shopping.jpg);
 }
 
 .page-title-content h2 {

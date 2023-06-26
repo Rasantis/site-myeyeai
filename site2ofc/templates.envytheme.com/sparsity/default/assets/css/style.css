@@ -4667,7 +4667,9 @@ Page Title Area CSS
 .page-title-area.item-bg5 {
   background-image: url(../img/Estacionamento-Shopping.jpg);
 }
-
+.page-title-area.item-bg6 {
+  background-image: url(../img/servicoo_bg.jpg);
+}
 .page-title-content h2 {
   margin-bottom: 0;
   color: #ffffff;
